@@ -1,17 +1,48 @@
 # Pokémon Site 1.0
 
-Projeto de estudo em desenvolvimento web, inspirado no universo Pokémon.  
-Foi criado com o objetivo de praticar os fundamentos de HTML, CSS e JavaScript.
+Projeto de site estático desenvolvido com **HTML, CSS e JavaScript**, com o objetivo de praticar estruturação de páginas, estilização responsiva e interações básicas com foco em **acessibilidade**.
+
+---
+
+## Sobre o projeto
+
+Este site apresenta uma introdução ao universo Pokémon, incluindo:
+- Seção inicial com destaque visual
+- Explicação sobre o que é Pokémon
+- Galeria de imagens
+- Formulário de contato
+- Menu de acessibilidade para ajuste de tamanho da fonte
+
+O projeto foi desenvolvido como **exercício de aprendizado**, focando em organização de código, boas práticas e experiência do usuário.
+
+---
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
 
-## Objetivo do projeto
-- Praticar estruturação de páginas com HTML
-- Aplicar estilização básica com CSS
-- Utilizar JavaScript para pequenas interações
+- **HTML5** – estrutura da página  
+- **CSS3** – estilização e layout  
+- **Bootstrap 5** – auxílio no layout responsivo  
+- **JavaScript** – interações e acessibilidade  
+- **Bootstrap Icons** – ícones  
 
-## Observações
-Este projeto faz parte do meu processo de aprendizado em programação e desenvolvimento web.
+---
+
+## Acessibilidade
+
+O site possui um menu de acessibilidade que permite:
+- Aumentar o tamanho da fonte
+- Diminuir o tamanho da fonte  
+- Interface simples e de fácil uso
+
+Esse recurso foi implementado com JavaScript puro.
+
+---
+
+## Estrutura do projeto
+
+```text
+/
+├── index.html
+├── styles.css
+├── script.js
+└── img/
