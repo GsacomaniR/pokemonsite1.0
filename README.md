@@ -46,3 +46,11 @@ Esse recurso foi implementado com JavaScript puro.
 ├── styles.css
 ├── script.js
 └── img/
+  ├──001.png
+  ├──004.png
+  ├──007.png
+  ├──025.png
+  ├──131.png
+  ├──143.png
+  ├──logo-2.png
+  ├──logo.png
