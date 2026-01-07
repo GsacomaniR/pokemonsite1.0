@@ -6,9 +6,8 @@ Projeto de site estático desenvolvido com **HTML, CSS e JavaScript**, com o obj
 
 ## Preview do Projeto
 
-![Tela Inicial](<img width="1400" height="942" alt="image" src="https://github.com/user-attachments/assets/9535ddd4-c244-4ae7-8ccd-6eee8b8f5dec" />)
-![Galeria](<img width="1128" height="934" alt="image" src="https://github.com/user-attachments/assets/1855bde7-3064-4938-b4ba-5f427cb88491" />)
-
+![Tela Inicial](https://github.com/user-attachments/assets/9535ddd4-c244-4ae7-8ccd-6eee8b8f5dec)
+![Galeria](https://github.com/user-attachments/assets/1855bde7-3064-4938-b4ba-5f427cb88491)
 
 ---
 
