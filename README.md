@@ -10,7 +10,7 @@ Projeto de site estático desenvolvido com **HTML, CSS e JavaScript**, com o obj
 ![Tela Inicial](https://github.com/user-attachments/assets/38587aa3-98f5-473a-aee0-ff58a378d77b)
 
 ### Galeria
-![Galeria](https://github.com/user-attachments/assets/1855bde7-3064-4938-b4ba-5f427cb88491)
+![Galeria](https://github.com/user-attachments/assets/dc57d09f-e1f0-4e3f-a678-cf86857af053)
 
 ---
 
